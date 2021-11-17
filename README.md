@@ -9,9 +9,6 @@ Tutorial Application in that:
 
 ![angular-13-example-crud-app](angular-13-example-crud-app.png)
 
-For instruction, please visit:
-> [Angular 13 example: CRUD Application with Rest API](https://www.github.com/JS-IT/angular-13-crud-example/)
-
 More Practice:
 > [Angular Pagination example | ngx-pagination](https://www.github.com/JS-IT/angular-12-pagination-ngx/)
 
@@ -32,21 +29,18 @@ Fullstack with Node.js:
 > [Angular + Node.js Express + MongoDB example](https://www.github.com/JS-IT/angular-12-mongodb-node-js-express/)
 
 Security:
-> [Angular + Spring Boot: JWT Authentication and Authorization example](https://www.github.com/JS-IT/angular-12-spring-boot-jwt-auth/)
-
 > [Angular + Node.js Express: JWT Authentication and Authorization example](https://www.github.com/JS-IT/node-js-angular-12-jwt-auth/)
 
 Serverless with Firebase:
-> [Angular Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://www.github.com/JS-IT/angular-12-firebase-crud/)
+> [Angular 12 Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://github.com/JS-IT/angular-12-firebase-crud/)
 
-> [Angular Firestore CRUD example with AngularFireStore](https://www.github.com/JS-IT/angular-12-firestore-crud-angularfirestore/)
+> [Angular 13 Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://github.com/JS-IT/angular-13-firebase-crud/)
 
-> [Angular Firebase Storage: File Upload/Display/Delete example](https://www.github.com/JS-IT/angular-12-file-upload-firebase-storage/)
+> [Angular 12 Firestore CRUD example with AngularFireStore](https://github.com/JS-IT/angular-12-firestore-crud/)
 
-Integration (run back-end & front-end on same server/port)
-> [How to Integrate Angular with Node.js Restful Services](https://www.github.com/JS-IT/integrate-angular-10-node-js/)
+> [Angular 13 Firestore CRUD example with AngularFireStore](https://github.com/JS-IT/angular-13-firestore-crud/)
 
-> [How to Integrate Angular with Spring Boot Rest API](https://www.github.com/JS-IT/integrate-angular-12-spring-boot/)
+> [Angular 13 Firebase Storage: File Upload/Display/Delete example](https://github.com/JS-IT/angular-13-file-upload-firebase-storage/)
 
 ## Development server
 
