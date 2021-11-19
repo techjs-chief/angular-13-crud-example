@@ -9,22 +9,13 @@ Tutorial Application in that:
 
 ![angular-13-example-crud-app](angular-13-example-crud-app.png)
 
-More Practice:
-> [Angular Pagination example | ngx-pagination](https://www.github.com/JS-IT/angular-12-pagination-ngx/)
-
-> [Angular JWT Authentication & Authorization with Web API](https://www.github.com/JS-IT/angular-12-jwt-auth/)
-
-> [Angular File upload example with progress bar & Bootstrap](https://www.github.com/JS-IT/angular-12-file-upload/)
-
-> [Angular Multiple Files upload example with Progress Bar](https://www.github.com/JS-IT/angular-12-multiple-file-upload/)
-
 Fullstack with Node.js:
+> [Angular + Node Express + MySQL example](https://github.com/JS-IT/nodejs-express-mysql/)
 
-> [Angular + Node.js Express + MySQL example](https://www.github.com/JS-IT/angular-12-node-js-express-mysql/)
+> [Angular + Node Express + PostgreSQL example](https://github.com/JS-IT/node-express-postgresql/)
 
-> [Angular + Node.js + Express + PostgreSQL example](https://www.github.com/JS-IT/angular-12-node-js-express-postgresql/)
+> [Angular + Node Express + MongoDB example](https://github.com/JS-IT/node-express-mongodb/)
 
-> [Angular + Node.js Express + MongoDB example](https://www.github.com/JS-IT/angular-12-mongodb-node-js-express/)
 
 Serverless with Firebase:
 > [Angular 12 Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://github.com/JS-IT/angular-12-firebase-crud/)
