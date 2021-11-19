@@ -26,9 +26,6 @@ Fullstack with Node.js:
 
 > [Angular + Node.js Express + MongoDB example](https://www.github.com/JS-IT/angular-12-mongodb-node-js-express/)
 
-Security:
-> [Angular + Node.js Express: JWT Authentication and Authorization example](https://www.github.com/JS-IT/node-js-angular-12-jwt-auth/)
-
 Serverless with Firebase:
 > [Angular 12 Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://github.com/JS-IT/angular-12-firebase-crud/)
 
