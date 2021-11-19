@@ -18,8 +18,6 @@ More Practice:
 
 > [Angular Multiple Files upload example with Progress Bar](https://www.github.com/JS-IT/angular-12-multiple-file-upload/)
 
-> [Angular Form Validation example (Reactive Forms)](https://www.github.com/JS-IT/angular-12-form-validation/)
-
 Fullstack with Node.js:
 
 > [Angular + Node.js Express + MySQL example](https://www.github.com/JS-IT/angular-12-node-js-express-mysql/)
